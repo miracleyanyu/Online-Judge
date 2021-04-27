@@ -15,7 +15,7 @@
     "express": "^4.15.0",
     "mongoose": "^4.8.5",
     "node-rest-client": "^3.0.7",
-    "redis": "^2.7.1",
+    "redis": "^3.1.1",
     "rxjs": "^5.5.12",
     "socket.io": "^1.7.3"
   }
